@@ -97,7 +97,7 @@ Tested with multiple scenarios:
 - Joblib
 - AWS EC2
 ## Key Learnings
-- End-to-end ML workflow (EDA → Modeling → Deployment)
+- Implemented End-to-end ML workflow (EDA → Modeling → Deployment)
 - Handling categorical data using encoding techniques
 - Model comparison and evaluation
 - Building and deploying REST APIs
